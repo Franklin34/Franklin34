@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  **franklin.sandoval42@gmail.com**
+  Email: franklin.sandoval42@gmail.com
+  Linkedin: www.linkedin.com/in/franklin-sandoval
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
