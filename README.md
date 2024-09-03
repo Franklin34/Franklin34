@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franklin Sandoval</h1>
 <h3 align="center">A passionate DevOps Engineer|Software Engineer from Costa Rica</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franklin34" alt="franklin34" /></a> </p>
-
 - 🔭 I’m currently working on **Microservices Python K8s**
 
 - 🌱 I’m currently learning **Kubernetes, Terraform, Docker, AWS**
