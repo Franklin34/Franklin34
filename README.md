@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franklin Sandoval</h1>
-<h3 align="center">A passionate DevOps Engineer|Software Engineer from Costa Rica</h3>
+<h3 align="center">A passionate DevOps Engineer | Software Engineer from Costa Rica</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franklin34&label=Profile%20views&color=0e75b6&style=flat" alt="franklin34" /> </p>
 
