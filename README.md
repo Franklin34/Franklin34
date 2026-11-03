@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/franklin-sandoval"><img src="https://img.shields.io/badge/LinkedIn-Franklin%20Sandoval-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/~0122ff330fa98c4c92"><img src="https://img.shields.io/badge/Upwork-Hire%20me-6FDA44?logo=upwork&logoColor=white" alt="Upwork" /></a>
   <a href="mailto:franklin.sandoval42@gmail.com"><img src="https://img.shields.io/badge/Email-franklin.sandoval42%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=franklin34&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -13,7 +14,7 @@
 ## 🤖 What I'm building
 
 - 🧠 **LLM applications:** chatbots with streaming responses, conversation memory, and provider-agnostic design (Gemini, Claude, OpenAI-compatible APIs)
-- ☸️ **Microservices in Python on Kubernetes**
+- ☸️ **Cloud-native infrastructure and DevOps:** containers, CI/CD and infrastructure as code
 - 🌱 Currently deepening my skills in **Kubernetes, Terraform, Docker and AWS**
 - 👯 Open to collaborating on **AI, backend and DevOps projects**
 - 💬 Ask me about **LLM integration, DevOps, Python, Java**
@@ -63,4 +64,4 @@ A streaming chatbot with a **FastAPI** backend and a provider-agnostic core. One
 
 ## 📫 Let's connect
 
-Looking for an engineer who can take an AI or backend idea from concept to a working, deployed system? Reach me at **franklin.sandoval42@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/franklin-sandoval).
+Looking for an engineer who can take an AI or backend idea from concept to a working, deployed system? Hire me on [Upwork](https://www.upwork.com/freelancers/~0122ff330fa98c4c92), email **franklin.sandoval42@gmail.com**, or find me on [LinkedIn](https://www.linkedin.com/in/franklin-sandoval).
